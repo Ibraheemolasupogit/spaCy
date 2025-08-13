@@ -1,6 +1,6 @@
 <a href="https://explosion.ai"><img src="https://explosion.ai/assets/img/logo.svg" width="125" height="125" align="right" /></a>
 
-# spaCy: Industrial-strength NLP
+# spaCy: Industrial-strength NLP 
 
 spaCy is a library for **advanced Natural Language Processing** in Python and
 Cython. It's built on the very latest research, and was designed from day one to
